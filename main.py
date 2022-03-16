@@ -163,7 +163,7 @@ def get_birth():
     print(Duck1.weight)
     print(Duck1.egg)
     print()
-    print(list_an)
+    # print(list_an)
     sum_weight = 0
     max_weight = 0
     max_weight_animal = ''
